@@ -91,7 +91,6 @@ password_manager/
 │   ├── crypto.rs           # Encryption/decryption
 │   └── ui.rs               # User interface and menu
 ├── README.md               # This file
-├── LEARNING_JOURNAL.md     # Learning progress tracking
 └── SETUP_GUIDE.md          # Installation instructions
 ```
 
@@ -355,24 +354,12 @@ This is Rust's ownership system at work. Review who owns the data and consider:
 - Check if you're trying to have multiple mutable borrows
 - Review borrowing rules
 
-## Future Enhancements
-
-Potential features for future iterations:
-
-- Password generation with customizable rules
-- File-based persistence (save/load from disk)
-- Multiple user support
-- Password expiration reminders
-- Clipboard integration
-- Two-factor authentication support
-
 ## Submission Checklist
 
 - [ ] All code compiles without errors
 - [ ] All features implemented and tested
 - [ ] Code is well-commented
 - [ ] README.md is complete
-- [ ] LEARNING_JOURNAL.md is filled out
 - [ ] 4-5 minute demonstration video recorded
 - [ ] All files pushed to GitHub
 - [ ] Repository is public or shared with instructor
