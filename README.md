@@ -374,4 +374,7 @@ Daniel Holguin Delgado
 
 ---
 
+**Video**
+https://www.youtube.com/watch?v=aEh6VyhOGjs
+
 **Note:** This is a learning project. While it demonstrates encryption concepts, it should NOT be used for storing real sensitive passwords in a production environment.
