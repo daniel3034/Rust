@@ -4,14 +4,6 @@
 use std::collections::HashMap;
 use std::io::{self, Write};
 
-// TODO: Once you learn about modules (Rust Book Ch 7), 
-// you can move these into separate files:
-// mod password;
-// mod storage;
-// mod auth;
-// mod crypto;
-// mod ui;
-
 /// Represents a single password entry
 /// Demonstrates: struct definition (Rust Book Ch 5)
 #[derive(Debug, Clone)]

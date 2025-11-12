@@ -73,7 +73,7 @@
 2. All basic requirements implemented
 3. Data structure (HashMap) implemented
 4. Object-oriented techniques implemented
-5. Code exceeds 100 lines (396 lines!)
+5. Code exceeds 100 lines 388 lines!)
 6. Comprehensive comments added
 7. README.md created and populated
 8. Learning journal template created
