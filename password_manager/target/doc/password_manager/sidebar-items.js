@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["display_menu","get_input","get_password_input","get_timestamp","main"],"struct":["Password","PasswordManager"]};
